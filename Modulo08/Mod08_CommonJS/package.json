@@ -1,0 +1,12 @@
+{
+  "name": "mod08_commonjs",
+  "version": "1.0.0",
+  "description": "Ejercicios con CommonJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VCamarzana",
+  "license": "ISC"
+}

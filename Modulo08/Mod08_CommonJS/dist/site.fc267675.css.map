@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/site.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"site.fc267675.css","sourceRoot":"..","sourcesContent":["body {\r\n    margin: 0 auto;\r\n    text-align: left;\r\n    width: 650px;\r\n    font-family: 'Courier New', Courier, monospace;\r\n    padding: 50px;\r\n\r\n}"]}
